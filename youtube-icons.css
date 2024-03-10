@@ -1,58 +1,152 @@
 .icon1{
     width: 60px;
     height: 50px;
-    background-color: gray;
+    background-color: white;
 
     margin-right: 20px;
     margin-left: 15px;
 }
 .icon2{
     width: 100px;
-    background-color: gray;
+    background-color: white;
     height: 50px;
     
     margin-right: 520px;
 }
 .icon3{
     width: 400px;
-    background-color: gray;
+    background-color: white;
     height: 50px;
-    
-    margin-right: 10px;
+    display: flex;
+    padding-top: 0px;
+    margin-right: 5px;
 }
 .icon4{
     width: 60px;
-    background-color: gray;
+    background-color: white;
     height: 50px;
     
     margin-right: 500px;
 }
 .icon5{
     width: 45px;
-    background-color: gray;
+    background-color: white;
     height: 50px;
     
     margin-right: 5px;
 }
 .icon6{
     width: 45px;
-    background-color: gray;
+    background-color: white;
     height: 50px;
     
     margin-right: 5px;
 }
 .icon7{
     width: 45px;
-    background-color: gray;
+    background-color: white;
     height: 50px;
     
     margin-right: 5px;
 }
 .icon8{
     width: 45px;
-    background-color: gray;
+    background-color: white;
     height: 50px;
 }
+
+.hamburger-menu{
+    width: 25px;
+    margin-left: 17px;
+    margin-top: 12px;
+}
+.youtube-logo{
+    margin-top: 13px;
+}
+.search-bar{
+    width: 85%;
+    height: 35px;
+
+    border-radius: 1px;
+    border-width: 1px;
+
+    margin-top: 7px;
+}
+.search-button{
+    width: 15%;
+    height: 39px;
+    
+    border-radius: 1px;
+    border-width: 1px;
+
+    margin-top: 7px;
+}
+.search-logo{
+    width: 23px;
+    margin-top: 2.5px;
+}
+.voice-search-icon{
+    width: 24px;
+    
+    margin-left: 10px;
+    margin-top: 15px;
+}
+.upload-logo{
+    width: 24px;
+    
+    margin-top: 14px;
+    margin-left: 11px;
+}
+.youtube-apps{
+    width: 25px;
+
+    margin-top: 13px;
+    margin-left: 9px;
+}
+.notifications{
+    width: 26px;
+    height: 24px;
+
+    margin-top: 14px;
+    margin-left: 9px;
+}
+.profil-frame{
+    width: 36px;
+    height: 36px;
+
+    background-color: white;
+
+    border-radius: 50%;
+    margin-top: 8px;
+    margin-left:2px;
+}
+.profil-photo{
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .side-icon1{
     background-color: gray;
     width:100%;
