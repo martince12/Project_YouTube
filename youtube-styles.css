@@ -10,7 +10,9 @@ aside {
     float: left;
     width: 4.5%;
     height: 150vh;
-    background-color: rgba(128, 128, 128, 0.472);
+    background-color: white;
+       
+
 }
 
 hr {
