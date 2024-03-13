@@ -1,133 +1,172 @@
+.row1{
+    padding-bottom: 0px;
+    padding-top: 25px;
+}
+
+.sector1{
+    width: 100%;
+    height: 68%;
+    
+    background-color: blue;
+}
+.sector2{
+    width: 11%;
+    height: 13%;
+
+    background-color: transparent;
+
+    display: inline-block;
+
+    position: relative;
+    top: 3%;
+}
+.sector3{
+    width: 77%;
+    height: 10%;
+
+    background-color: transparent;
+
+    display: inline-block;
+
+    position: relative;
+
+    top: 4%;
+}
+.sector4{
+    width: 40%;
+    height: 6%;
+
+    background-color: transparent;
+
+    display: inline-block;
+
+    position: relative;
+    top: 3.5%;
+    left: 13.5%;
+}
+.sector5{
+    width: 40%;
+    height: 6%;
+
+    background-color: transparent;
+
+    display: inline-block;
+
+    position: relative;
+
+    top: 10%;
+    right: 27.5%;
+}
+
+.thumbnail-1,.thumbnail-2,
+.thumbnail-3,.thumbnail-4,
+.thumbnail-5,.thumbnail-6,
+.thumbnail-7,.thumbnail-8,
+.thumbnail-9,.thumbnail-10,
+.thumbnail-11,.thumbnail-12{
+    width: 100%;
+}
+.main-profil-photo{
+    width: 35px;
+    border-radius: 50%;
+}
+h4{
+    margin-top: 0;
+}
+.profile-name{
+    margin-top: 0;
+}
+.video-stats{
+    margin-top: 0;
+}
+
+
 .thumbnail1{
-    background-color: gray;
-    width: 28%;
+    background-color: transparent;
+    width: 100%;
+    height:350px;
+
+    margin-left: 10px;
+    margin-right: 15px;
+}
+.thumbnail2{
+    background-color: transparent;
+    width: 100%;
     height:350px;
 
     margin-right: 15px;
-    margin-bottom: 10px;
-    margin-top: 10px;
-}
-.thumbnail2{
-    background-color: gray;
-    width: 28%;
-    height: 350px;
-    
-    margin-right: 15px;
-    margin-bottom: 10px;
-    margin-top: 10px;
 }
 .thumbnail3{
-    background-color: gray;
-    width: 28%;
+    background-color: transparent;
+    width: 100%;
     height:350px;
-    
+
     margin-right: 15px;
-    margin-bottom: 10px;
-    margin-top: 10px;
 }
 .thumbnail4{
-    background-color: gray;
-    width: 28%;
-    height: 350px;
-    
-    margin-bottom: 10px;
-    margin-top: 10px;
+    background-color: transparent;
+    width: 100%;
+    height:350px;
+
+    margin-right: 10px;
 }
+
 .thumbnail5{
-    background-color: gray;
-    width: 436.5px;
-    height: 350px;
-    
+    background-color: transparent;
+    width: 100%;
+    height:350px;
+
+    margin-left: 10px;
     margin-right: 15px;
-    margin-bottom: 10px;
 }
 .thumbnail6{
-    background-color: gray;
-    width: 436.5px;
-    height: 350px;
-    
+    background-color: transparent;
+    width: 100%;
+    height:350px;
+
     margin-right: 15px;
-    margin-bottom: 10px;
 }
 .thumbnail7{
-    background-color: gray;
-    width: 436.5px;
-    height: 350px;
-    
+    background-color: transparent;
+    width: 100%;
+    height:350px;
+
     margin-right: 15px;
-    margin-bottom: 10px;
 }
 .thumbnail8{
-    background-color: gray;
-    width: 436.5px;
-    height: 350px;
-    
-    margin-bottom: 10px;
+    background-color: transparent;
+    width: 100%;
+    height:350px;
+
+    margin-right: 10px;
 }
+
 .thumbnail9{
-    background-color: gray;
-    width: 436.5px;
-    height: 350px;
-    
+    background-color: transparent;
+    width: 100%;
+    height:350px;
+
+    margin-left: 10px;
     margin-right: 15px;
-    margin-bottom: 10px;
 }
 .thumbnail10{
-    background-color: gray;
-    width: 436.5px;
-    height: 350px;
-    
+    background-color: transparent;
+    width: 100%;
+    height:350px;
+
     margin-right: 15px;
-    margin-bottom: 10px;
 }
 .thumbnail11{
-    background-color: gray;
-    width: 436.5px;
-    height: 350px;
-    
+    background-color: transparent;
+    width: 100%;
+    height:350px;
+
     margin-right: 15px;
-    margin-bottom: 10px;
 }
 .thumbnail12{
-    background-color: gray;
-    width: 436.5px;
-    height: 350px;
-    
-    margin-bottom: 10px;
-}
-.thumbnail-1{
+    background-color: transparent;
     width: 100%;
-}
-.thumbnail-10{
-    width: 100%;
-}
-.thumbnail-11{
-    width: 100%;
-}
-.thumbnail-12{
-    width: 100%;
-}
-.thumbnail-2{
-    width: 100%;
-}
-.thumbnail-3{
-    width: 100%;
-}
-.thumbnail-4{
-    width: 100%;
-}
-.thumbnail-5{
-    width: 100%;
-}
-.thumbnail-6{
-    width: 100%;
-}
-.thumbnail-7{
-    width: 100%;
-}
-.thumbnail-8{
-    width: 100%;
-}
-.thumbnail-9{
-    width: 100%;
+    height:350px;
+
+    margin-right: 10px;
 }
