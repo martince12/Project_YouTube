@@ -22,11 +22,14 @@
     margin-right: 5px;
 }
 .icon4{
-    width: 60px;
-    background-color: white;
-    height: 50px;
+    width: 37px;
+
+    border-radius: 50%;
+    background-color: rgba(207, 206, 206, 0.154);
+    height: 37px;
     
     margin-right: 500px;
+    margin-top: 8px;
 }
 .icon5{
     width: 45px;
@@ -71,18 +74,21 @@
     width: 85%;
     height: 35px;
 
-    border-radius: 1px;
+    border-radius: 3px 0 0 3px;
     border-width: 1px;
+    border-color: rgba(128, 128, 128, 0.427);
 
     margin-top: 7px;
+    padding-left: 10px;
+    font-size: 15px;
 }
 .search-button{
     width: 15%;
     height: 39px;
     
-    border-radius: 1px;
+    border-radius:0 3px 3px 0;
     border-width: 1px;
-
+    border-color: rgba(128, 128, 128, 0.427);
     margin-top: 7px;
 
     cursor: pointer;
@@ -94,8 +100,8 @@
 .voice-search-icon{
     width: 24px;
     
-    margin-left: 10px;
-    margin-top: 15px;
+    margin-left: 6.5px;
+    margin-top: 9px;
 
     cursor: pointer;
 }
@@ -220,37 +226,37 @@
 .home-logo{
     width: 25px;
     position: absolute;
-    top: 10%;
+    top: 8.5%;
     left: 2%;
     object-fit: cover;
 }
 .home-text{
     position: absolute;
-    top: 12%;
-    left: 2%;
+    top: 10.5%;
+    left: 1.99%;
 
 }
 .explore-logo{
     position: absolute;
-    top: 19.3%;
+    top: 17.5%;
     left: 2%;
     width: 25px;
 }
 .explore-text{
     position: absolute;
-    top: 21.3%;
+    top: 19.5%;
     left: 1.8%;
 }
 .subscriptions-logo{
     position: absolute;
-    top: 28%;
+    top: 26%;
     left: 2%;
 
     width: 25px;
 }
 .subscriptions-text{
     position: absolute;
-    top: 29.7%;
+    top: 28%;
     left: 1.1%;
 
     font-size: 10px;
@@ -258,14 +264,14 @@
 }
 .originals-logo{
     position: absolute;
-    top: 36.8%;
+    top: 34.8%;
     left: 2%;
     
     width: 25px;
 }
 .originals-text{
     position: absolute;
-    top: 38.6%;
+    top: 36.6%;
     left: 1.6%;
 
     font-size: 10px;
@@ -273,14 +279,14 @@
 }
 .youtube-music{
     position: absolute;
-    top: 45.5%;
+    top: 43.5%;
     left: 2%;
 
     width: 25px;
 }
 .youtube-music-text{
     position: absolute;
-    top: 47.5%;
+    top: 45.8%;
     left: 0.9%;
 
     font-size: 10px;
@@ -288,15 +294,15 @@
 }
 .library-logo{
     position: absolute;
-    top: 54.3%;
-    left: 2%;
+    top: 52.3%;
+    left: 1.9%;
 
     width: 25px;
 }
 .library-text{
     position: absolute;
-    top: 56.3%;
-    left: 1.9%;
+    top: 54.3%;
+    left: 1.8%;
 
     font-size: 10px;
     font-family: Arial, Helvetica, sans-serif;
